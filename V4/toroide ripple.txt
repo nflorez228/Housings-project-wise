@@ -1,0 +1,7 @@
+toroide central 10, 1 metido en 1.5mm en el nodo. uno interno de 9,1 2 externos 11,1 y 12,1 respectivamente
+el 9 se quita el 10 hace merge 11 quitar y 12 merge 
+
+borde superior de 3
+
+en temp los soportes internos son de 7mm
+aros 10.5,9,8,7
